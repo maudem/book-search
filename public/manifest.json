@@ -1,6 +1,6 @@
 {
-  "name": "vue-books-pwa",
-  "short_name": "vue-books-pwa",
+  "name": "booksy",
+  "short_name": "booksy",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
